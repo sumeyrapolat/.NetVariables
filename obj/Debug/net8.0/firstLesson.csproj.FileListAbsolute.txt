@@ -1,0 +1,14 @@
+C:\Users\sumey\Source\repos\firstLesson\bin\Debug\net8.0\firstLesson.exe
+C:\Users\sumey\Source\repos\firstLesson\bin\Debug\net8.0\firstLesson.deps.json
+C:\Users\sumey\Source\repos\firstLesson\bin\Debug\net8.0\firstLesson.runtimeconfig.json
+C:\Users\sumey\Source\repos\firstLesson\bin\Debug\net8.0\firstLesson.dll
+C:\Users\sumey\Source\repos\firstLesson\bin\Debug\net8.0\firstLesson.pdb
+C:\Users\sumey\Source\repos\firstLesson\obj\Debug\net8.0\firstLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumey\Source\repos\firstLesson\obj\Debug\net8.0\firstLesson.AssemblyInfoInputs.cache
+C:\Users\sumey\Source\repos\firstLesson\obj\Debug\net8.0\firstLesson.AssemblyInfo.cs
+C:\Users\sumey\Source\repos\firstLesson\obj\Debug\net8.0\firstLesson.csproj.CoreCompileInputs.cache
+C:\Users\sumey\Source\repos\firstLesson\obj\Debug\net8.0\firstLesson.dll
+C:\Users\sumey\Source\repos\firstLesson\obj\Debug\net8.0\refint\firstLesson.dll
+C:\Users\sumey\Source\repos\firstLesson\obj\Debug\net8.0\firstLesson.pdb
+C:\Users\sumey\Source\repos\firstLesson\obj\Debug\net8.0\firstLesson.genruntimeconfig.cache
+C:\Users\sumey\Source\repos\firstLesson\obj\Debug\net8.0\ref\firstLesson.dll
